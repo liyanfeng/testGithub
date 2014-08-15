@@ -1,8 +1,4 @@
 liyanfeng
 i love you
-<<<<<<< HEAD
 work hard
-
-=======
 tian long ba bu
->>>>>>> branch_B
